@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="contest_calendar.BlankPage4"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:contest_calendar"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="Teal">
+        <TextBlock x:Name="res" HorizontalAlignment="Left" Margin="166,168,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" FontFamily="Magneto" FontSize="22" Width="1033" Height="550"/>
+        <TextBlock x:Name="block12" HorizontalAlignment="Left" Margin="450,49,0,0" TextWrapping="Wrap" Text="Contest Results" VerticalAlignment="Top" Width="472" Height="55" FontFamily="Magneto" FontSize="48"/>
+        <AppBarButton x:ConnectionId='0' x:Name="home1" HorizontalAlignment="Left" Label="Home" Margin="36,643,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.254,0.156" Icon="Home"                    />
+    </Grid>
+</Page>
+

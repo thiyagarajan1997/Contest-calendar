@@ -1,0 +1,70 @@
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\App.g.i.cs
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\App.g.cs
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\BlankPage2.g.i.cs
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\BlankPage2.g.cs
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\BlankPage3.g.i.cs
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\BlankPage3.g.cs
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\Calendar.g.i.cs
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\Calendar.g.cs
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\MainPage.g.cs
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\App.xaml
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\BlankPage2.xaml
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\Calendar.xaml
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\MainPage.xaml
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\App.xbf
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\BlankPage2.xbf
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\Calendar.xbf
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\MainPage.xbf
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\BlankPage3.xaml
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\BlankPage3.xbf
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\bin\x86\Debug\App.xbf
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\bin\x86\Debug\BlankPage2.xbf
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\bin\x86\Debug\BlankPage3.xbf
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\bin\x86\Debug\Calendar.xbf
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\bin\x86\Debug\MainPage.xbf
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\bin\x86\Debug\contest calendar.exe
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\bin\x86\Debug\contest calendar.pdb
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\bin\x86\Debug\resources.pri
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\bin\x86\Debug\AppxManifest.xml
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\bin\x86\Debug\contest calendar.build.appxrecipe
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\bin\x86\Debug\Microsoft.Advertising.WinRT.UI.winmd
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\bin\x86\Debug\Microsoft.Advertising.WinRT.UI.xml
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\bin\x86\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\bin\x86\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\bin\x86\Debug\MicrosoftAdvertising.winmd
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\bin\x86\Debug\MicrosoftAdvertising.xml
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\contest calendar.exe
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\contest calendar.pdb
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\contest calendar.csproj.GenerateResource.Cache
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\priconfig.xml
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\layout.resfiles
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\resources.resfiles
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\pri.resfiles
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\qualifiers.txt
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\bin\x86\Debug\BlankPage4.xbf
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\BlankPage4.g.i.cs
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\BlankPage4.g.cs
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\BlankPage4.xaml
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\BlankPage4.xbf
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\BlankPage5.g.i.cs
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\BlankPage5.g.cs
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\bin\x86\Debug\BlankPage5.xbf
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\BlankPage5.xaml
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\BlankPage5.xbf
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\bin\x86\Debug\BlankPage6.xbf
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\BlankPage6.g.i.cs
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\BlankPage6.g.cs
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\BlankPage6.xaml
+C:\Users\mtslab\Desktop\contest calendar\contest calendar\obj\x86\Debug\BlankPage6.xbf
+C:\Users\HP\Desktop\contest calendar\contest calendar\obj\x86\Debug\contest calendar.exe
+C:\Users\HP\Desktop\contest calendar\contest calendar\obj\x86\Debug\contest calendar.pdb

@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="contest_calendar.BlankPage2"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:contest_calendar"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="Teal">
+        <TextBlock x:Name="tb1" HorizontalAlignment="Left" Margin="466.427,189.427,0,0" TextWrapping="Wrap" Text="enter password" VerticalAlignment="Top" Height="96" Width="472" FontSize="48" FontFamily="Magneto" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
+            <TextBlock.RenderTransform>
+                <CompositeTransform SkewX="-5.618" TranslateX="-4.722"/>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <PasswordBox x:Name="pb1" HorizontalAlignment="Left" Margin="450,324,0,0" VerticalAlignment="Top" Height="102" Width="533" FontSize="48"/>
+        <Button x:ConnectionId='1' x:Name="btn" Content="Login" HorizontalAlignment="Left" Margin="552,470,0,0" VerticalAlignment="Top" Height="74" Width="237" FontSize="48" FontFamily="Magneto"                  />
+        <TextBlock x:Name="tb2" HorizontalAlignment="Left" Margin="522,616,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="357" Height="55" FontSize="48" FontFamily="Magneto"/>
+
+    </Grid>
+</Page>
+
